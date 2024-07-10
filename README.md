@@ -1,8 +1,8 @@
 🚀 Image Resizer Using Python 📸
 
-🔗 ✨ If You Run This Project And get the Preview! here is Repl Link: https://replit.com/@Pythonworlds/-Image-Resizer-Using-Python-?v=1 🎉
+🔗 ✨ If You Run This Project And get the Preview! here is Repl Link: https://replit.com/@Pythonworlds/-Image-Resizer-Using-Python-?v=1 
 
-I have given a preview image of this project in the thumbnail option of the settings. If you want to see then click on settings option..
+I have given a preview image of this project in the thumbnail option of the settings. If you want to see then click on settings option 🎉
 
 Hey everyone! 🌟 I just finished building an Image Resizer using Python! 
 This handy tool lets you resize your images effortlessly, ensuring they look perfect for any platform or use.
